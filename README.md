@@ -1,2 +1,2 @@
 # Softuni-js-fundamentals
-Arrays / Arrays Exercise
+Arrays / Arrays Exercise lecture from Softuni 
