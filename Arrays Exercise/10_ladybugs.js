@@ -1,7 +1,6 @@
 function ladybug(fieldSize, ladybugsIndexes, commands) {
     let field = new Array(fieldSize).fill(0);
   
-
     ladybugsIndexes.split(' ').forEach(index => {
       index = parseInt(index);
       if (index >= 0 && index < fieldSize) {
